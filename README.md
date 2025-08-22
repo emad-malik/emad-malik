@@ -1,5 +1,5 @@
 ## 👋 Hey, I am Emad Malik  
-I'm a 22-year-old data science student at FAST NUCES, passionate about AI, automation, and solving real-world problems with data-driven solutions. 🚀 My journey is all about building intelligent systems that bridge the gap between technology and human needs. 👨🏼‍💻  
+I'm a 22-year-old data science student at FAST NUCES with a strong interest in analytics, statistical modeling, and uncovering insights from complex datasets. 📊 My journey is focused on using data science and machine learning to better understand patterns, support decision-making, and tackle real-world challenges through evidence-based solutions. 🔍
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=emad-malik&&style=flat-square" align="center" />
